@@ -1,4 +1,4 @@
-# Awesome-Repo-Template [![Awesome](https://awesome.re/badge.svg)](https://github.com/MarketingPipeline/Awesome-Repo-Template/)
+# poa00's Repo Template [![Awesome](https://awesome.re/badge.svg)](https://github.com/poa00/poa00-Repo-Template/)
 
 <a href="https://github.com/MarketingPipeline/Awesome-Repo-Template/">
 <img height=350 alt="Repo Banner - Awesome Repo Template" src="https://capsule-render.vercel.app/api?type=waving&color=c4a2bd&height=300&section=header&text=Awesome%20Repo%-Template&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Easily%20setup%20your%20next%20repo!&descAlignY=60&descAlign=50"></img></a>
